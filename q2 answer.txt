@@ -1,0 +1,3 @@
+As the number of hidden nodes increases, the model's accuracy initially improves significantly, peaking at 91.25% with 5 hidden units. After this point, adding more hidden units results in a slight decrease
+
+The accuracy improves significantly up to 5 hidden units, peaking at 91.25%. Beyond that, the accuracy slightly decreases or plateaus around 90-91%, likely due to overfitting or diminishing returns in model complexity
